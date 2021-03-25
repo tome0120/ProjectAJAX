@@ -2,9 +2,9 @@
 
 `<Link della Repository>` : <https://github.com/tome0120/ProjectAJAX.git>
 
-Per il caricamento del progetto sulla repository su github ho compiuto i seguenti passaggi.
+Per il caricamento del progetto sulla repository di github ho compiuto i seguenti passaggi.
 
-Traminte GitBash ho fatto:
+Traminte GitBash ho eseguito i seguenti passi:
 
 1. La clonazione del progetto tramite il link della repository, con il comando -$ git clone + (link repository)
 2. Ho aggiunto i file con il comando -$ git add *
