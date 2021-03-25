@@ -10,3 +10,5 @@ Traminte GitBash ho fatto:
 2. Ho aggiunto i file con il comando -$ git add *
 3. Ho fatto il commit  del progetto con -$ git commit -m "Progetto completato"
 4. Infine ho fatto il push di tutti i file
+
+### Tomelleri Marco
